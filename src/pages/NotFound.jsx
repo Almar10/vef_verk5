@@ -1,4 +1,3 @@
-
 export function NotFound() {
-  // TODO útfæra 404 síðu
+  <h1>404 síða fannst ekki</h1>
 }

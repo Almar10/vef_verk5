@@ -1,4 +1,7 @@
+import { News } from '../components/news/News'
 
 export function NewsPage() {
-  // TODO útfæra fréttasíðu
+  return (
+    <News />
+  )
 }

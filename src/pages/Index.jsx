@@ -1,4 +1,5 @@
+import { Categories } from "../components/categories/Categories";
 
 export function Index() {
-  // TODO útfæra yfirlitssíðu
+  return <Categories />;
 }
